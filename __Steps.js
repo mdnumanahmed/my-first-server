@@ -18,4 +18,6 @@
  * 2. callback function
  *  -> has two parameters (req, res)
  * 
+ * req.params থেকে id পাওয়া যায়। যদি User ক্লায়েন্ট সাইট থেকে url এর কোন আইডি দেয়, সেটি req.params থেকে পাওয়া যায়।
+ * 
 */
